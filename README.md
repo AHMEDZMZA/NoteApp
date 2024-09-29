@@ -8,6 +8,8 @@
 ![Screenshot 2024-09-29 172200](https://github.com/user-attachments/assets/ac1f79f9-bb3d-4be0-bdd0-46776c68fd83)
 ![Screenshot 2024-09-29 172209](https://github.com/user-attachments/assets/be535ca2-8d41-42b1-84eb-581acf147234)
 ![Screenshot 2024-09-29 172233](https://github.com/user-attachments/assets/c53c1df8-844f-4036-a4b7-b2ead50e10da)
+
+
 I developed a Note App using Jetpack Compose with several exciting features:
 1-MVVM Architecture: Ensured a clean and testable codebase.
 2-Dagger Hilt: Implemented for seamless dependency injection.
